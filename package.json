@@ -10,7 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/silcar92/counter-timer-react-native.git"
   },
-  "author": "Silvestre Cardenas",
+  "keywords": [
+    "counter",
+    "timer",
+    "timer",
+    "react",
+    "native",
+    "cross-platform",
+    "android",
+    "ios"
+  ],
+  "author": "silcar92",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/silcar92/counter-timer-react-native/issues"
