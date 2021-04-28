@@ -1,6 +1,6 @@
 {
-  "name": "counter-timer-react-native",
-  "version": "0.0.1",
+  "name": "react-native-simple-timer",
+  "version": "0.0.2",
   "description": "Simple React native counter",
   "main": "index.js",
   "scripts": {
