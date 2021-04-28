@@ -1,0 +1,23 @@
+{
+  "name": "counter-timer-react-native",
+  "version": "0.0.1",
+  "description": "Simple React native counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silcar92/counter-timer-react-native.git"
+  },
+  "author": "Silvestre Cardenas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silcar92/counter-timer-react-native/issues"
+  },
+  "homepage": "https://github.com/silcar92/counter-timer-react-native#readme",
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-native": "^0.59.0"
+  }
+}
