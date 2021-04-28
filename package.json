@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-timer",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Simple React native counter",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/silcar92/counter-timer-react-native#readme",
   "dependencies": {
-    "react": "^16.8.0",
-    "react-native": "^0.59.0"
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz"
   }
 }
