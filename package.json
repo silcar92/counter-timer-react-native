@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-timer",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "Simple React native counter",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-native": "^0.59.0"
+    "react-native": "0.0.0"
   }
 }
